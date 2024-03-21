@@ -5,4 +5,4 @@
 ## Skills
 - 👨‍💻 Python
 - ⚙️ NumPy, Pandas, Matplotlib, Sklearn, PySpark, LightGBM, Keras, PyTorch 
-- 💽 PostgreSQL, Nebula, Cypher, nGQL, MongoDB
+- 💽 PostgreSQL
